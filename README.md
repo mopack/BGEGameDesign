@@ -6,6 +6,6 @@ BowAndArrow is a 3d game written in Python and using blender game engine to comp
 
 * Python Script:    BGEGameDesign\Source\Pulling.py
 
-* Sounds:           UnityGameRollABall\Assets\Sounds
+* BGE Source:       BGEGameDesign\Source\BowAndArrow.blend
 
 * Release Build:    BGEGameDesign\BowAndArrow (Release Version).7z
